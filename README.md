@@ -1,6 +1,5 @@
 # Password Hashing 101 🛡️
-
-Welcome to the **Password Hashing Tutorial Series**!  
+Welcome to the Password Hashing Tutorial Series!  
 This repository is designed to help you understand the importance of secure password storage and guide you step-by-step from the basics to advanced hashing techniques.
 
 ## Why Is Password Hashing Important?
@@ -11,7 +10,7 @@ This project walks you through the evolution of password handling — from plain
 
 Make sure to start by reading the included PDF for a solid foundation:
 
-📖 **[Understanding Password Hashing.pdf](./understanding_password_hashing.pdf)**  
+📖 **[Understanding Password Hashing.pdf]**  
 This document explains:
 - Why storing plain text passwords is dangerous
 - The concept of hashing
@@ -24,7 +23,6 @@ This document explains:
 
 Follow the tutorials in order to build your knowledge progressively.
 password_hashing_tutorial_1.py to password_hashing_tutorial_4.py
-
 
 ## ✅ Final Recommendation
 
