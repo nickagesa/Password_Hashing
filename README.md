@@ -11,6 +11,7 @@ This project walks you through the evolution of password handling — from plain
 Make sure to start by reading the included PDF for a solid foundation:
 
 <h3>📖 <a href="https://github.com/nickagesa/Password_Hashing/blob/main/Understanding_Password_Hashing.pdf">Understanding_Password_Hashing.pdf</a></h3>
+
 This document explains:
 - Why storing plain text passwords is dangerous
 - The concept of hashing
