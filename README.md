@@ -10,7 +10,7 @@ This project walks you through the evolution of password handling — from plain
 
 Make sure to start by reading the included PDF for a solid foundation:
 
-📖 **[Understanding Password Hashing.pdf]**  ./Understanding_Password_Hashing.pdf
+📖 **[Understanding Password Hashing.pdf]**  - <a href="Understanding_Password_Hashing.pdf
 This document explains:
 - Why storing plain text passwords is dangerous
 - The concept of hashing
