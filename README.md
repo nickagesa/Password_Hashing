@@ -23,7 +23,8 @@ This document explains:
 ## 🚀 Tutorials Breakdown
 
 Follow the tutorials in order to build your knowledge progressively.
-password_hashing_tutorial_1.py to password_hashing_tutorial_4.py
+<a href="https://github.com/nickagesa/Password_Hashing/blob/main/Password_Hashing_Tutorial_1.py">password_hashing_tutorial_1.py</a> to 
+<a href="https://github.com/nickagesa/Password_Hashing/blob/main/Password_Hashing_Tutorial_4.py">password_hashing_tutorial_4.py</a>
 
 ## ✅ Final Recommendation
 
